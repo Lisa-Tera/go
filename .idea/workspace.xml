@@ -17,50 +17,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c84bf60-3617-483e-8f3c-899535860141" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/work_go.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/201944033_JES.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Expression_01.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Types.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aa/count/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aa/count/main_map.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aa/count/votes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aa/datafile/floats.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aa/datafile/stings.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_003_Conditionals_and_Loops.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_004_Conditional_and_Loops.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_005_Functions_01.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_006_Functions_02.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_007_Functions_03.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_008_Functions_04.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_009_Packages_01.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_struct_01.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_struct_02.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_14.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_14_02.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maptest.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz_01_common_multiple.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz_02_funtions.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rd_std.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/201944033_JES.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/201944033_JES.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dates/dates.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hello/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mathcalculator/mathcalculator.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mid/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/planner/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/korean/korean.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statements.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subprograms_02.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/낙서장.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/연습장.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go_gorutine_01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go_gorutine_02.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go_interdace_01.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,12 +61,28 @@
       <recent name="C:\work_go" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build home_14_02.go">
-    <configuration name="go build go_struct_02.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build go_gorutine_02.go">
+    <configuration name="go build go_gorutine_01.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="work_go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/go_struct_02.go" />
+      <filePath value="$PROJECT_DIR$/go_gorutine_01.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build go_gorutine_02.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="work_go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/go_gorutine_02.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build go_interdace_01.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="work_go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/go_interdace_01.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -126,29 +102,13 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="work_go" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/aa/count/main.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build main_map.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="work_go" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/aa/count/main_map.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build go_gorutine_02.go" />
+        <item itemvalue="Go Build.go build go_gorutine_01.go" />
+        <item itemvalue="Go Build.go build go_interdace_01.go" />
         <item itemvalue="Go Build.go build home_14_02.go" />
         <item itemvalue="Go Build.go build home_14.go" />
-        <item itemvalue="Go Build.go build go_struct_02.go" />
-        <item itemvalue="Go Build.go build main_map.go" />
-        <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +143,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
@@ -196,10 +157,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="902" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1605857527604" />
-    <state x="-50" y="0" key="CommitChangelistDialog2" timestamp="1607106017135">
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1607110297263">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="-50" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1607106017135" />
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1607110297263" />
     <state x="334" y="152" key="FileChooserDialogImpl" timestamp="1607106749467">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -208,22 +169,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="262" y="309" width="648" height="205" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1607106413808" />
-    <state width="725" height="188" key="GridCell.Tab.0.bottom" timestamp="1607107297203">
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1607177088680">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607107297203" />
-    <state width="725" height="188" key="GridCell.Tab.0.center" timestamp="1607107297201">
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607177088680" />
+    <state width="1493" height="190" key="GridCell.Tab.0.center" timestamp="1607177088680">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607107297201" />
-    <state width="725" height="188" key="GridCell.Tab.0.left" timestamp="1607107297199">
+    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607177088680" />
+    <state width="1493" height="190" key="GridCell.Tab.0.left" timestamp="1607177088680">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607107297199" />
-    <state width="725" height="188" key="GridCell.Tab.0.right" timestamp="1607107297201">
+    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607177088680" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right" timestamp="1607177088680">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607107297201" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607177088680" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1607005774078">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -244,10 +205,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="45" y="113" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607106993086" />
-    <state x="259" y="290" key="Vcs.Push.Dialog.v2" timestamp="1607107294156">
+    <state x="259" y="290" key="Vcs.Push.Dialog.v2" timestamp="1607110245424">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="259" y="290" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607107294156" />
+    <state x="259" y="290" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607110245424" />
     <state x="431" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1607106984743">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
