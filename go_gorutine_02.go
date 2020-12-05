@@ -22,11 +22,11 @@ func responseSize(url string){
 	fmt.Println(len(body))
 }
 func main()  {
-	//순서가 바뀌지 않음
-	responseSize("https://www.inhatc.ac.kr")
-	responseSize("http://google.com")
-	responseSize("http://harvard.edu")
-	responseSize("https://www.naver.com")
+	//먼저 끝난 go 루틴부터 출력됨
+	go responseSize("https://www.inhatc.ac.kr")
+	go responseSize("http://google.com")
+	go responseSize("http://harvard.edu")
+	go responseSize("https://www.naver.com")
 	time.Sleep(time.Second*5)
 }
 /*
