@@ -20,6 +20,7 @@ func main()  {
 	if err!=nil{
 		log.Fatal(err)
 	}
+
 	in1 =strings.TrimSpace(in1)//줄바꿈 룬 제거
 	i1, err := strconv.ParseInt(in1,10,64) //in1을 int64로 변환한 값을 i1에 넣어준다.
 

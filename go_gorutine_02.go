@@ -7,6 +7,7 @@ import (
 	"net/http"
 	"time"
 )
+
 func responseSize(url string){
 	fmt.Println(url)
 	//resp에는 어떤 사이트든 그 사이트에 대한 정보를 넣고

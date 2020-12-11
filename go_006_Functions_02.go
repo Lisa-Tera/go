@@ -1,4 +1,4 @@
-/*
+
 package main
 
 import "fmt"
@@ -61,4 +61,4 @@ func main(){
 	fmt.Println(myFloat)
 	fmt.Println(myInt)
 	//fmt.Println(manyReturn())
-}*/
+}

@@ -24,10 +24,13 @@ func main(){
 		w = 5.2
 		h = 3.5
 		area = w * h
+
 		fmt.Printf("%5.3f\n",area/10.0)
 		fmt.Printf("%5d %s %t\n", 10, "go", true)
 		fmt.Printf("%v %#v %T %%\n", 1.2, 1.2, 1.2)
 		fmt.Printf("%v %#v %T %%\n", "\t", "\t", "\t")
 		fmt.Printf("%v %#v %T %%\n", true, true, true)
 	*/
+	var a []int = []int{1, 2, 3}
+	fmt.Printf("%v %#v %T %%\n",a,a,a)
 }

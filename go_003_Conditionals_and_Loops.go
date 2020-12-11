@@ -36,6 +36,9 @@ func main()  {
 	//correctTexts := replacer.Replace(wrongtexts)
 	//fmt.Println(correctTexts)
 
+	a := time.Now()
+
+	fmt.Println(a)
 	var now time.Time= time.Now()//now에 연월일 시분초가 다 있음
 	var year int =now.Year()
 	month := now.Month()
